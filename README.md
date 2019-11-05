@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+#**what is text editor?**
 
-You can use the [editor on GitHub](https://github.com/robafuqara1989/Editor/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A text editor is a piece of software that you download and install on
+your computer, or you access online through your web browser, that
+allows you to write and manage text, especially the text that you write
+to build a web site. The text editor has to be one of the most
+important tools you can use as an aspiring web developer.
+What features should you look for in a text editor? I would say some
+of the most important features are: 1.) code completion; 2.) syntax
+highlighting; 3.) a nice variety of themes (to reduce eye strain and
+fatigue); and 4.) the ability to choose from a healthy selection of
+extensions available when you need them. You might find some other
+features that are must-have’s, but I think these features are a good
+start.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##**the difference between text editor and IDFS:**
 
-### Markdown
+A text editor kind of gives away what it does in the title—it edits text.
+It also manages text, and manages files. I love that name “text
+wrangler” because in a way that’s what really a text editor does. It
+wrangles your text together into something meaningful.
+An IDE (Integrated Development Environment) is really a suite of
+different software all coming together. An IDE is a text editor, a file
+manager, a compiler, and a debugger all in one software package.
+You can think about an IDE very much like Microsoft Outlook. If
+you’ve ever used Microsoft Outlook, you would have quickly noticed
+that it was an email client, a calendar, a task manager, a to-do list all
+in one software package. Similar to how an IDE is an all-in-one
+software package.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#**important concepts:**
 
-```markdown
-Syntax highlighted code block
+*Everything is a file under Linux
+Even directories.
 
-# Header 1
-## Header 2
-### Header 3
+*Linux is an extensionless system
+Files can have any extension they like or none at all.
 
-- Bulleted
-- List
+*Linux is case sensitive
+Beware of silly typos.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/robafuqara1989/Editor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
